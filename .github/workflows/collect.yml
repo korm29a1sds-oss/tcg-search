@@ -1,0 +1,57 @@
+# 매일 07:30(KST) 네이버 검색량을 수집해 data/ 폴더에 커밋한다.
+# 08:40(KST)에 한 번 더 실행해 07:30 결과가 '정상(ok)'이 아닐 때만 다시 수집한다 (--skip-if-done).
+# 수동 실행: Actions 탭 → "검색량 수집" → Run workflow (항상 새로 수집)
+name: 검색량 수집
+
+on:
+  schedule:
+    - cron: "30 22 * * *"   # UTC 22:30 = KST 07:30 (GitHub 사정으로 늦을 수 있음)
+    - cron: "40 23 * * *"   # UTC 23:40 = KST 08:40 (재시도용, 오늘 정상 완료면 바로 종료)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 실행이 겹치지 않게 (먼저 시작한 실행이 끝날 때까지 대기)
+concurrency:
+  group: collect-search-volume
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 저장소 가져오기
+        uses: actions/checkout@v5
+
+      # ubuntu-latest에 기본 설치된 python3(3.12) 사용 — 추가 설치 없음
+      - name: 검색량 수집
+        env:
+          NAVER_CUSTOMER_ID: ${{ secrets.NAVER_CUSTOMER_ID }}
+          NAVER_ACCESS_LICENSE: ${{ secrets.NAVER_ACCESS_LICENSE }}
+          NAVER_SECRET_KEY: ${{ secrets.NAVER_SECRET_KEY }}
+        run: python3 collect.py ${{ github.event_name == 'schedule' && '--skip-if-done' || '' }}
+
+      # 수집이 실패해도 실행(취소 시 제외): 실패 안내가 담긴 data/latest.md, data/status.json을 올리기 위함
+      - name: 결과 커밋 & 푸시 (data/만)
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A data/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음 — 커밋 생략"
+            exit 0
+          fi
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          git commit -m "data: ${TODAY} 검색량"
+          for i in 1 2 3; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            echo "푸시 실패 (${i}/3) — 5초 후 다시 시도"
+            sleep 5
+          done
+          exit 1
