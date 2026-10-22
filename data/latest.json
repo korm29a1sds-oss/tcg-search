@@ -1,12 +1,12 @@
 {
  "batches": 9,
- "collected_at": "2026-10-22T07:59:16+09:00",
- "collected_at_kst": "2026-10-22 07:59",
- "date": "2026-10-22",
+ "collected_at": "2026-10-23T07:59:47+09:00",
+ "collected_at_kst": "2026-10-23 07:59",
+ "date": "2026-10-23",
  "diffs": {
   "new_related": [],
   "new_related_note": null,
-  "prev_date": "2026-10-21",
+  "prev_date": "2026-10-22",
   "rising": [
    {
     "keyword": "포켓몬카드예약",
@@ -14,13 +14,6 @@
     "total": 140,
     "week_abs": 40,
     "week_pct": 40.0
-   },
-   {
-    "keyword": "트레이딩카드",
-    "new": false,
-    "total": 1280,
-    "week_abs": 230,
-    "week_pct": 21.9
    }
   ],
   "seeds": {
@@ -34,16 +27,16 @@
    "PSA10": {
     "day_abs": -10,
     "day_pct": -1.2,
-    "total": 800,
+    "total": 790,
     "week_abs": -50,
-    "week_pct": -5.9
+    "week_pct": -6.0
    },
    "RGB뮤": {
-    "day_abs": -90,
-    "day_pct": -2.7,
-    "total": 3270,
-    "week_abs": -950,
-    "week_pct": -22.5
+    "day_abs": -70,
+    "day_pct": -2.1,
+    "total": 3200,
+    "week_abs": -1060,
+    "week_pct": -24.9
    },
    "SAR확률": {
     "day_abs": 0,
@@ -53,11 +46,11 @@
     "week_pct": -50.0
    },
    "TCG": {
-    "day_abs": -20,
-    "day_pct": -0.5,
-    "total": 3990,
-    "week_abs": -180,
-    "week_pct": -4.3
+    "day_abs": -70,
+    "day_pct": -1.8,
+    "total": 3920,
+    "week_abs": -250,
+    "week_pct": -6.0
    },
    "루피카드": {
     "day_abs": 0,
@@ -67,18 +60,18 @@
     "week_pct": 11.1
    },
    "리자몽카드": {
-    "day_abs": -20,
-    "day_pct": -0.6,
-    "total": 3380,
-    "week_abs": -100,
-    "week_pct": -2.9
+    "day_abs": -40,
+    "day_pct": -1.2,
+    "total": 3340,
+    "week_abs": -130,
+    "week_pct": -3.7
    },
    "뮤카드": {
     "day_abs": -10,
     "day_pct": -1.4,
-    "total": 690,
-    "week_abs": -100,
-    "week_pct": -12.7
+    "total": 680,
+    "week_abs": -110,
+    "week_pct": -13.9
    },
    "빈티지포켓몬카드": {
     "day_abs": 0,
@@ -88,18 +81,18 @@
     "week_pct": -14.3
    },
    "원피스카드": {
-    "day_abs": -120,
-    "day_pct": -1.3,
-    "total": 9040,
-    "week_abs": -1120,
-    "week_pct": -11.0
+    "day_abs": -60,
+    "day_pct": -0.7,
+    "total": 8980,
+    "week_abs": -1080,
+    "week_pct": -10.7
    },
    "원피스카드게임": {
-    "day_abs": -10,
-    "day_pct": -0.3,
-    "total": 3340,
-    "week_abs": -230,
-    "week_pct": -6.4
+    "day_abs": 10,
+    "day_pct": 0.3,
+    "total": 3350,
+    "week_abs": -160,
+    "week_pct": -4.6
    },
    "원피스카드금지": {
     "day_abs": 0,
@@ -116,18 +109,18 @@
     "week_pct": 0.0
    },
    "원피스카드박스": {
-    "day_abs": -10,
-    "day_pct": -1.4,
-    "total": 680,
-    "week_abs": -80,
-    "week_pct": -10.5
+    "day_abs": -20,
+    "day_pct": -2.9,
+    "total": 660,
+    "week_abs": -90,
+    "week_pct": -12.0
    },
    "원피스카드시세": {
-    "day_abs": -30,
-    "day_pct": -1.5,
-    "total": 2020,
-    "week_abs": -260,
-    "week_pct": -11.4
+    "day_abs": -60,
+    "day_pct": -3.0,
+    "total": 1960,
+    "week_abs": -280,
+    "week_pct": -12.5
    },
    "원피스카드패러렐": {
     "day_abs": 0,
@@ -151,158 +144,158 @@
     "week_pct": null
    },
    "잉어킹카드": {
-    "day_abs": -40,
-    "day_pct": -4.5,
-    "total": 850,
-    "week_abs": -280,
-    "week_pct": -24.8
+    "day_abs": -30,
+    "day_pct": -3.5,
+    "total": 820,
+    "week_abs": -250,
+    "week_pct": -23.4
    },
    "창해의칠걸": {
     "day_abs": -20,
-    "day_pct": -3.8,
-    "total": 510,
-    "week_abs": -290,
-    "week_pct": -36.2
+    "day_pct": -3.9,
+    "total": 490,
+    "week_abs": -280,
+    "week_pct": -36.4
    },
    "초판리자몽": {
-    "day_abs": 20,
-    "day_pct": 2.5,
-    "total": 810,
-    "week_abs": 30,
-    "week_pct": 3.8
+    "day_abs": -10,
+    "day_pct": -1.2,
+    "total": 800,
+    "week_abs": 20,
+    "week_pct": 2.6
    },
    "트레이딩카드": {
-    "day_abs": 0,
-    "day_pct": 0.0,
-    "total": 1280,
-    "week_abs": 230,
-    "week_pct": 21.9
+    "day_abs": -20,
+    "day_pct": -1.6,
+    "total": 1260,
+    "week_abs": 190,
+    "week_pct": 17.8
    },
    "포켓몬30주년": {
-    "day_abs": -1830,
-    "day_pct": -2.2,
-    "total": 80120,
-    "week_abs": -17400,
-    "week_pct": -17.8
+    "day_abs": -2130,
+    "day_pct": -2.7,
+    "total": 77990,
+    "week_abs": -18370,
+    "week_pct": -19.1
    },
    "포켓몬카드": {
-    "day_abs": -2100,
+    "day_abs": -2000,
     "day_pct": -1.0,
-    "total": 206400,
-    "week_abs": -17200,
-    "week_pct": -7.7
+    "total": 204400,
+    "week_abs": -18200,
+    "week_pct": -8.2
    },
    "포켓몬카드30주년": {
-    "day_abs": -2140,
-    "day_pct": -3.2,
-    "total": 64290,
-    "week_abs": -22800,
-    "week_pct": -26.2
+    "day_abs": -1950,
+    "day_pct": -3.0,
+    "total": 62340,
+    "week_abs": -23740,
+    "week_pct": -27.6
    },
    "포켓몬카드PSA": {
-    "day_abs": -20,
-    "day_pct": -3.0,
+    "day_abs": 0,
+    "day_pct": 0.0,
     "total": 640,
-    "week_abs": -70,
-    "week_pct": -9.9
+    "week_abs": -60,
+    "week_pct": -8.6
    },
    "포켓몬카드UR": {
     "day_abs": 0,
     "day_pct": 0.0,
     "total": 410,
-    "week_abs": -10,
-    "week_pct": -2.4
+    "week_abs": -20,
+    "week_pct": -4.7
    },
    "포켓몬카드감정": {
-    "day_abs": 0,
-    "day_pct": 0.0,
-    "total": 410,
-    "week_abs": -40,
-    "week_pct": -8.9
+    "day_abs": -20,
+    "day_pct": -4.9,
+    "total": 390,
+    "week_abs": -70,
+    "week_pct": -15.2
    },
    "포켓몬카드게임": {
-    "day_abs": -100,
-    "day_pct": -1.1,
+    "day_abs": 0,
+    "day_pct": 0.0,
     "total": 9350,
-    "week_abs": -480,
-    "week_pct": -4.9
+    "week_abs": -340,
+    "week_pct": -3.5
    },
    "포켓몬카드등급": {
-    "day_abs": -150,
-    "day_pct": -1.4,
-    "total": 10400,
-    "week_abs": -570,
-    "week_pct": -5.2
+    "day_abs": -110,
+    "day_pct": -1.1,
+    "total": 10290,
+    "week_abs": -670,
+    "week_pct": -6.1
    },
    "포켓몬카드박스": {
     "day_abs": -120,
     "day_pct": -1.0,
-    "total": 12000,
-    "week_abs": -1040,
-    "week_pct": -8.0
+    "total": 11880,
+    "week_abs": -1050,
+    "week_pct": -8.1
    },
    "포켓몬카드보관": {
     "day_abs": -20,
     "day_pct": -2.1,
-    "total": 950,
-    "week_abs": -120,
-    "week_pct": -11.2
+    "total": 930,
+    "week_abs": -140,
+    "week_pct": -13.1
    },
    "포켓몬카드슬리브": {
-    "day_abs": -80,
-    "day_pct": -1.9,
-    "total": 4120,
-    "week_abs": -520,
-    "week_pct": -11.2
+    "day_abs": -50,
+    "day_pct": -1.2,
+    "total": 4070,
+    "week_abs": -550,
+    "week_pct": -11.9
    },
    "포켓몬카드시세": {
-    "day_abs": -500,
-    "day_pct": -1.8,
-    "total": 26650,
-    "week_abs": -2990,
-    "week_pct": -10.1
+    "day_abs": -350,
+    "day_pct": -1.3,
+    "total": 26300,
+    "week_abs": -3300,
+    "week_pct": -11.1
    },
    "포켓몬카드영문판": {
-    "day_abs": 0,
-    "day_pct": 0.0,
-    "total": 280,
-    "week_abs": 0,
-    "week_pct": 0.0
+    "day_abs": -10,
+    "day_pct": -3.6,
+    "total": 270,
+    "week_abs": -10,
+    "week_pct": -3.6
    },
    "포켓몬카드예약": {
-    "day_abs": 20,
-    "day_pct": 16.7,
+    "day_abs": 0,
+    "day_pct": 0.0,
     "total": 140,
     "week_abs": 40,
     "week_pct": 40.0
    },
    "포켓몬카드일본판": {
-    "day_abs": -60,
-    "day_pct": -1.9,
-    "total": 3060,
-    "week_abs": -320,
-    "week_pct": -9.5
+    "day_abs": -40,
+    "day_pct": -1.3,
+    "total": 3020,
+    "week_abs": -310,
+    "week_pct": -9.3
    },
    "포켓몬카드정가": {
-    "day_abs": -10,
-    "day_pct": -1.5,
+    "day_abs": 0,
+    "day_pct": 0.0,
     "total": 660,
     "week_abs": -50,
     "week_pct": -7.0
    },
    "포켓몬카드크림": {
-    "day_abs": 0,
-    "day_pct": 0.0,
-    "total": 620,
-    "week_abs": 0,
-    "week_pct": 0.0
+    "day_abs": -20,
+    "day_pct": -3.2,
+    "total": 600,
+    "week_abs": -30,
+    "week_pct": -4.8
    },
    "포켓몬카드프로모": {
-    "day_abs": -10,
-    "day_pct": -5.3,
+    "day_abs": 0,
+    "day_pct": 0.0,
     "total": 180,
-    "week_abs": -20,
-    "week_pct": -10.0
+    "week_abs": 0,
+    "week_pct": 0.0
    },
    "포켓몬카드한글판": {
     "day_abs": 0,
@@ -321,15 +314,15 @@
    "피카츄카드": {
     "day_abs": -70,
     "day_pct": -1.8,
-    "total": 3860,
-    "week_abs": -590,
-    "week_pct": -13.3
+    "total": 3790,
+    "week_abs": -670,
+    "week_pct": -15.0
    }
   },
-  "week_date": "2026-10-15"
+  "week_date": "2026-10-16"
  },
  "failed_seeds": [],
- "history_days": 23,
+ "history_days": 24,
  "missing_seeds": [],
  "no_data_seeds": [],
  "ok_batches": 9,
@@ -337,8 +330,8 @@
   "MLB카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 130,
-   "pc": 20,
+   "mobile": 120,
+   "pc": 30,
    "total": 150
   },
   "NBA농구카드": {
@@ -352,31 +345,31 @@
   "NBA카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 490,
-   "pc": 120,
-   "total": 610
+   "mobile": 500,
+   "pc": 130,
+   "total": 630
   },
   "NBA카드박스": {
    "compIdx": "높음",
    "has_lt10": true,
-   "mobile": 30,
+   "mobile": 20,
    "pc": 0,
    "pc_lt10": true,
-   "total": 30
+   "total": 20
   },
   "PSA등급": {
    "compIdx": "높음",
    "has_lt10": false,
    "mobile": 220,
-   "pc": 70,
-   "total": 290
+   "pc": 60,
+   "total": 280
   },
   "TOPPS카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 190,
+   "mobile": 210,
    "pc": 40,
-   "total": 230
+   "total": 250
   },
   "UFC카드": {
    "compIdx": "중간",
@@ -388,37 +381,37 @@
   "농구카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 140,
-   "pc": 20,
-   "total": 160
+   "mobile": 150,
+   "pc": 30,
+   "total": 180
   },
   "등급카드": {
    "compIdx": "높음",
    "has_lt10": false,
    "mobile": 110,
-   "pc": 20,
-   "total": 130
+   "pc": 30,
+   "total": 140
   },
   "등급카드보관함": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 680,
-   "pc": 190,
-   "total": 870
+   "mobile": 690,
+   "pc": 200,
+   "total": 890
   },
   "디지몬카드슬리브": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 70,
+   "mobile": 60,
    "pc": 30,
-   "total": 100
+   "total": 90
   },
   "반다이원피스카드": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 20,
+   "mobile": 30,
    "pc": 10,
-   "total": 30
+   "total": 40
   },
   "브로스카드": {
    "compIdx": "중간",
@@ -487,9 +480,9 @@
   "야구카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 1710,
+   "mobile": 1740,
    "pc": 160,
-   "total": 1870
+   "total": 1900
   },
   "오타니카드": {
    "compIdx": "높음",
@@ -524,16 +517,16 @@
   "유희왕카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 4060,
+   "mobile": 4070,
    "pc": 950,
-   "total": 5010
+   "total": 5020
   },
   "유희왕카드게임": {
    "compIdx": "높음",
    "has_lt10": false,
    "mobile": 60,
-   "pc": 50,
-   "total": 110
+   "pc": 40,
+   "total": 100
   },
   "유희왕카드판매": {
    "compIdx": "높음",
@@ -554,8 +547,8 @@
    "compIdx": "중간",
    "has_lt10": false,
    "mobile": 250,
-   "pc": 80,
-   "total": 330
+   "pc": 70,
+   "total": 320
   },
   "카드수집": {
    "compIdx": "높음",
@@ -567,17 +560,18 @@
   "카드쉘": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 1900,
+   "mobile": 1870,
    "pc": 870,
-   "total": 2770
+   "total": 2740
   },
   "카드용품": {
    "compIdx": "높음",
    "has_lt10": true,
-   "mobile": 10,
+   "mobile": 0,
+   "mobile_lt10": true,
    "pc": 0,
    "pc_lt10": true,
-   "total": 10
+   "total": 0
   },
   "탑스카드": {
    "compIdx": "높음",
@@ -589,17 +583,17 @@
   "파니니축구카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 1000,
+   "mobile": 990,
    "pc": 120,
-   "total": 1120
+   "total": 1110
   },
   "포켓몬노트": {
    "compIdx": "높음",
    "has_lt10": true,
-   "mobile": 30,
+   "mobile": 20,
    "pc": 0,
    "pc_lt10": true,
-   "total": 30
+   "total": 20
   },
   "포켓몬문구세트": {
    "compIdx": "높음",
@@ -611,10 +605,11 @@
   "포켓몬스터문구": {
    "compIdx": "높음",
    "has_lt10": true,
-   "mobile": 10,
+   "mobile": 0,
+   "mobile_lt10": true,
    "pc": 0,
    "pc_lt10": true,
-   "total": 10
+   "total": 0
   },
   "포켓몬스터선물": {
    "compIdx": "중간",
@@ -626,9 +621,9 @@
   "포켓몬스터스티커": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 410,
+   "mobile": 420,
    "pc": 40,
-   "total": 450
+   "total": 460
   },
   "포켓몬스터장난감": {
    "compIdx": "중간",
@@ -648,9 +643,9 @@
   "포켓몬스터카드": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 2410,
-   "pc": 560,
-   "total": 2970
+   "mobile": 2370,
+   "pc": 540,
+   "total": 2910
   },
   "포켓몬스터카드등급": {
    "compIdx": "높음",
@@ -684,45 +679,45 @@
   "포켓몬장난감": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 1560,
+   "mobile": 1550,
    "pc": 160,
-   "total": 1720
+   "total": 1710
   },
   "포켓몬카드그레이딩": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 430,
+   "mobile": 420,
    "pc": 70,
-   "total": 500
+   "total": 490
   },
   "포켓몬카드사이트": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 660,
+   "mobile": 650,
    "pc": 110,
-   "total": 770
+   "total": 760
   },
   "포켓몬카드수집": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 300,
+   "mobile": 290,
    "pc": 60,
-   "total": 360
+   "total": 350
   },
   "포켓몬카드카페": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 5230,
-   "pc": 460,
-   "total": 5690
+   "mobile": 5000,
+   "pc": 450,
+   "total": 5450
   },
   "포켓몬펜": {
    "compIdx": "높음",
    "has_lt10": true,
-   "mobile": 20,
+   "mobile": 10,
    "pc": 0,
    "pc_lt10": true,
-   "total": 20
+   "total": 10
   },
   "포켓몬필통": {
    "compIdx": "높음",
@@ -803,16 +798,16 @@
   "PSA10": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 580,
+   "mobile": 570,
    "pc": 220,
-   "total": 800
+   "total": 790
   },
   "RGB뮤": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 2790,
-   "pc": 480,
-   "total": 3270
+   "mobile": 2750,
+   "pc": 450,
+   "total": 3200
   },
   "SAR확률": {
    "compIdx": "낮음",
@@ -825,9 +820,9 @@
   "TCG": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 2670,
-   "pc": 1320,
-   "total": 3990
+   "mobile": 2620,
+   "pc": 1300,
+   "total": 3920
   },
   "루피카드": {
    "compIdx": "높음",
@@ -839,16 +834,16 @@
   "리자몽카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 3140,
+   "mobile": 3100,
    "pc": 240,
-   "total": 3380
+   "total": 3340
   },
   "뮤카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 650,
+   "mobile": 640,
    "pc": 40,
-   "total": 690
+   "total": 680
   },
   "빈티지포켓몬카드": {
    "compIdx": "높음",
@@ -860,16 +855,16 @@
   "원피스카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 6990,
-   "pc": 2050,
-   "total": 9040
+   "mobile": 6950,
+   "pc": 2030,
+   "total": 8980
   },
   "원피스카드게임": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 2440,
+   "mobile": 2450,
    "pc": 900,
-   "total": 3340
+   "total": 3350
   },
   "원피스카드금지": {
    "compIdx": "낮음",
@@ -891,16 +886,16 @@
   "원피스카드박스": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 410,
-   "pc": 270,
-   "total": 680
+   "mobile": 400,
+   "pc": 260,
+   "total": 660
   },
   "원피스카드시세": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 1630,
-   "pc": 390,
-   "total": 2020
+   "mobile": 1580,
+   "pc": 380,
+   "total": 1960
   },
   "원피스카드패러렐": {
    "compIdx": "높음",
@@ -930,51 +925,51 @@
   "잉어킹카드": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 700,
-   "pc": 150,
-   "total": 850
+   "mobile": 690,
+   "pc": 130,
+   "total": 820
   },
   "창해의칠걸": {
    "compIdx": "낮음",
    "has_lt10": false,
-   "mobile": 410,
-   "pc": 100,
-   "total": 510
+   "mobile": 400,
+   "pc": 90,
+   "total": 490
   },
   "초판리자몽": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 760,
+   "mobile": 750,
    "pc": 50,
-   "total": 810
+   "total": 800
   },
   "트레이딩카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 1020,
+   "mobile": 1000,
    "pc": 260,
-   "total": 1280
+   "total": 1260
   },
   "포켓몬30주년": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 74100,
-   "pc": 6020,
-   "total": 80120
+   "mobile": 72200,
+   "pc": 5790,
+   "total": 77990
   },
   "포켓몬카드": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 185500,
-   "pc": 20900,
-   "total": 206400
+   "mobile": 183800,
+   "pc": 20600,
+   "total": 204400
   },
   "포켓몬카드30주년": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 57600,
-   "pc": 6690,
-   "total": 64290
+   "mobile": 55900,
+   "pc": 6440,
+   "total": 62340
   },
   "포켓몬카드PSA": {
    "compIdx": "중간",
@@ -993,9 +988,9 @@
   "포켓몬카드감정": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 370,
+   "mobile": 350,
    "pc": 40,
-   "total": 410
+   "total": 390
   },
   "포켓몬카드게임": {
    "compIdx": "높음",
@@ -1007,44 +1002,44 @@
   "포켓몬카드등급": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 9580,
-   "pc": 820,
-   "total": 10400
+   "mobile": 9490,
+   "pc": 800,
+   "total": 10290
   },
   "포켓몬카드박스": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 11100,
-   "pc": 900,
-   "total": 12000
+   "mobile": 11000,
+   "pc": 880,
+   "total": 11880
   },
   "포켓몬카드보관": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 820,
-   "pc": 130,
-   "total": 950
+   "mobile": 810,
+   "pc": 120,
+   "total": 930
   },
   "포켓몬카드슬리브": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 3570,
+   "mobile": 3520,
    "pc": 550,
-   "total": 4120
+   "total": 4070
   },
   "포켓몬카드시세": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 23200,
-   "pc": 3450,
-   "total": 26650
+   "mobile": 22900,
+   "pc": 3400,
+   "total": 26300
   },
   "포켓몬카드영문판": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 250,
+   "mobile": 240,
    "pc": 30,
-   "total": 280
+   "total": 270
   },
   "포켓몬카드예약": {
    "compIdx": "높음",
@@ -1056,9 +1051,9 @@
   "포켓몬카드일본판": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 2730,
+   "mobile": 2690,
    "pc": 330,
-   "total": 3060
+   "total": 3020
   },
   "포켓몬카드정가": {
    "compIdx": "중간",
@@ -1070,9 +1065,9 @@
   "포켓몬카드크림": {
    "compIdx": "중간",
    "has_lt10": false,
-   "mobile": 550,
-   "pc": 70,
-   "total": 620
+   "mobile": 540,
+   "pc": 60,
+   "total": 600
   },
   "포켓몬카드프로모": {
    "compIdx": "높음",
@@ -1098,9 +1093,9 @@
   "피카츄카드": {
    "compIdx": "높음",
    "has_lt10": false,
-   "mobile": 3500,
-   "pc": 360,
-   "total": 3860
+   "mobile": 3440,
+   "pc": 350,
+   "total": 3790
   }
  },
  "status": "ok"
